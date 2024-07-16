@@ -37,6 +37,9 @@ namespace AmazonPupSpace.Models
 
         //Adding Department Entity to the database
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Trick> Tricks { get; set; }
+        public DbSet<DogxTrick> DogxTricks { get; set; }
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();

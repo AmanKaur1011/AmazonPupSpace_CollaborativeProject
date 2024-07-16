@@ -118,3 +118,5 @@ C:\Users\aman1\Http5226BackEnd\AmazonPupSpace\AmazonPupSpace\obj\Debug\AmazonPup
 C:\Users\aman1\Http5226BackEnd\AmazonPupSpace\AmazonPupSpace\obj\Debug\AmazonPupSpace.Migrations.addemployeeandedepartmenttable.resources
 C:\Users\aman1\Http5226BackEnd\AmazonPupSpace\AmazonPupSpace\obj\Debug\AmazonPupSpace.Migrations.dogtableupdated.resources
 C:\Users\aman1\Http5226BackEnd\AmazonPupSpace\AmazonPupSpace\obj\Debug\AmazonPupSpace.Migrations.postandcommenttableadded.resources
+C:\Users\aman1\Http5226BackEnd\AmazonPupSpace\AmazonPupSpace\obj\Debug\AmazonPupSpace.Migrations.trickstableinserted.resources
+C:\Users\aman1\Http5226BackEnd\AmazonPupSpace\AmazonPupSpace\obj\Debug\AmazonPupSpace.Migrations.dogxtrickandtricktableinsertd.resources
